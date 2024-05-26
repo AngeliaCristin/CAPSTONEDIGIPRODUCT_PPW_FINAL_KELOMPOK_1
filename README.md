@@ -8,7 +8,7 @@ https://gculture.janjianaja.site/
 
 #### admin
 Username: ray123
-Password: 123
+/ Password: 123
 
 ### Link Slide Deck
 https://docs.google.com/presentation/d/1OywAfr8jfFSussK0tL5ds2iNf_qbgQIkeB4UjWmcpFA/edit?usp=sharing
